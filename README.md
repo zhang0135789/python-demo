@@ -14,5 +14,5 @@ AI语言python入门基础知识
 ## 项目简介
 #### demo01_hello
     简单的hello world 入门，学习python开发环境的搭建，以及测试
-    根据solidity官方文档编写基础测试案例Test 和 Test1
+    
     https://learnblockchain.cn/docs/solidity/index.html
