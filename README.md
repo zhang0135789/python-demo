@@ -10,7 +10,6 @@ AI语言python入门基础知识
     ubuntu 18.
 
     ai交流qq群：786937587
-
 ## 项目简介
 #### demo01_hello
     简单的hello world 入门，学习python开发环境的搭建，以及测试
