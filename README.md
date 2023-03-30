@@ -15,4 +15,3 @@ AI语言python入门基础知识
 #### demo01_hello
     简单的hello world 入门，学习python开发环境的搭建，以及测试
     
-    https://learnblockchain.cn/docs/solidity/index.html
