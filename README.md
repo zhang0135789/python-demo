@@ -8,6 +8,7 @@ AI语言python入门基础知识
     本项目编写环境为
     python v3.8 
     ubuntu 18.
+    conda 22.9.0
 
     ai交流qq群：786937587
 ## 项目简介
@@ -26,3 +27,5 @@ AI语言python入门基础知识
     集合            Set
     字典            Dictionary
     字节            bytes
+
+### demo04_数据类型转换
