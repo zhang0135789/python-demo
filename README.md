@@ -58,4 +58,5 @@ AI语言python入门基础知识
     pass
 
 ### demo08_Flask Web框架初体验
-    
+    通过pip3安装Flask
+    sudo pip3 install Flask
