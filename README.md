@@ -3,6 +3,7 @@ python入门
 欢迎交流qq群 ： 786937587
 
 AI语言python入门基础知识
+参考：https://www.runoob.com/python3/python3-step1.html
 随着chatGPT的火爆，人工智能又开始出现在人类的视野，为了学习达摩院的魔搭开元ai库，因此开始学习python，以便更快接入魔搭、飞浆等开元ai知识库。
 
     本项目编写环境为
