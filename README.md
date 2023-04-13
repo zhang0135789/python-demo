@@ -48,4 +48,10 @@ AI语言python入门基础知识
     if语句嵌套
 
 ### demo07_循环语句
-
+    for
+    while
+    for else
+    while else
+    continue
+    break
+    pass
